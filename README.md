@@ -2,7 +2,7 @@
 
 ## Objective
 
-Analyze product carbon footprints (PCFs) from a public PostgreSQL dataset to benchmark industry emissions. Check out the [project report] (url here) 
+Analyze product carbon footprints (PCFs) from a public PostgreSQL dataset to benchmark industry emissions. Check out the [project report](Analyzing Industry Carbon Emissions Final.pdf) 
 
 ## About the Dataset
 
